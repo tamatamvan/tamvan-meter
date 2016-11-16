@@ -1,0 +1,25 @@
+{
+  "name": "tamvan-meter",
+  "version": "1.0.0",
+  "description": "How tamvan you are?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamatamvan/tamvan-meter.git"
+  },
+  "keywords": [
+    "tamvan",
+    "meter",
+    "junk",
+    "package"
+  ],
+  "author": "Septian Adhi Tama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamatamvan/tamvan-meter/issues"
+  },
+  "homepage": "https://github.com/tamatamvan/tamvan-meter#readme"
+}
